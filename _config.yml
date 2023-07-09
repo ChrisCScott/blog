@@ -43,7 +43,7 @@ footer_links:
     url: https://twitter.com/ChrisCScott
     icon: fab fa-twitter
   - title: Mastodon
-    url: 
+    url: https://mstdn.ca/@ChrisCScott
     icon: fab fa-mastodon
   - title: GitHub
     url: https://github.com/ChrisCScott

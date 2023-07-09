@@ -45,6 +45,10 @@ footer_links:
     icon: fas fa-rss
 copyright: "© Christopher Scott"
 
+## Site-wide default author:
+## (See _data/authors.yml for known author tags)
+author: christopherscott
+
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # theme: minima 

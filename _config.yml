@@ -26,8 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "blog.christopherscott.ca" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "en-us"
 logo: /images/avatar.jpg
+
+# For themes that provide social tie-ins:
 twitter_username: "ChrisCScott"
 github_username:  "ChrisCScott"
+
+# Override default post URL style to omit categories and date:
+permalink: /:title.html
 
 ## Footer content:
 footer_links:
@@ -49,7 +54,7 @@ copyright: "© Christopher Scott"
 ## (See _data/authors.yml for known author tags)
 author: christopherscott
 
-# Build settings
+# Set theme:
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # theme: minima 
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Starting Fresh"
 image:
   path: /images/2023-07-09-starting-fresh-2048x1536.jpeg
-  thumbnail: /images/2023-07-09-starting-fresh-thumb-1024x768.jpeg
+  thumbnail: /images/2023-07-09-starting-fresh-1024x768.jpeg
 ---
 
 Hello again!

@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Starting Fresh"
+image:
+  path: /images/2023-07-09-starting-fresh.jpeg
+  thumbnail: /images/2023-07-09-starting-fresh-thumb.jpeg
 ---
 
 Hello again!

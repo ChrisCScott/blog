@@ -41,7 +41,7 @@ footer_links:
     url: https://github.com/ChrisCScott
     icon: fab fa-github
   - title: Feed
-    url: atom.xml
+    url: feed.xml
     icon: fas fa-rss
 copyright: "© Christopher Scott"
 

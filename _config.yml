@@ -22,8 +22,8 @@ title: "Christopher Scott's Blog"
 email: "christopher@christopherscott.ca"
 description: >- # this means to ignore newlines until "baseurl:"
   Rarely updated and seldom read.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.christopherscott.ca" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://chriscscott.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 locale: "en-us"
 logo: /images/avatar.jpg
 

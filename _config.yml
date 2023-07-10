@@ -37,6 +37,9 @@ permalink: /:title.html
 # Allow for manually setting the cut-off for the excerpt:
 excerpt_separator: <!--more-->
 
+# Set to true if you don't want to see the author sidebar on posts:
+hide_author: true
+
 ## Footer content:
 footer_links:
   - title: Twitter

@@ -58,7 +58,7 @@ copyright: "© Christopher Scott"
 author: christopherscott
 
 # Set theme:
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "chriscscott/blog-theme-so-simple"
 # theme: minima 
 
 # Alternative theme options:

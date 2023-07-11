@@ -6,4 +6,4 @@
 #   `bundle exec jekyll serve --config _config.yml,_config_dev.yml`
 
 # Use dev branch for the theme:
-remote_theme: "chriscscott/blog-theme-so-simple@dev"
+remote_theme: "chriscscott/blog-theme-so-simple@develop"

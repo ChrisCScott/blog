@@ -4,6 +4,8 @@ title:  "Starting Fresh"
 image:
   path: /images/2023-07-09-starting-fresh-2048x1536.jpeg
   thumbnail: /images/2023-07-09-starting-fresh-1024x768.jpeg
+author: christopherscott
+author_post_specific_picture: /images/author/2023-07-09-christopherscott.jpeg
 ---
 
 Hello again!

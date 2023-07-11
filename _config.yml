@@ -32,7 +32,7 @@ twitter_username: "ChrisCScott"
 github_username:  "ChrisCScott"
 
 # Override default post URL style to omit categories and date:
-permalink: /:title.html
+permalink: /:title
 
 # Allow for manually setting the cut-off for the excerpt:
 excerpt_separator: <!--more-->

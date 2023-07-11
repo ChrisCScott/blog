@@ -114,7 +114,29 @@ defaults:
       layout: post
       comments: false
       share: false
+  # Add default image for social media sites for pages that don't
+  # have a page-specific image provided:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo.jpg
 
 # Search full text of posts. (This can slow the site down if there
 # are many posts - not likely to be an issue for this site)
 search_full_content: true
+
+# Extra metadata supported by jekyll-seo-tags:
+social:
+  name: Christopher Scott
+  links:
+    - https://www.facebook.com/ccscott
+    - https://twitter.com/ChrisCScott
+    - https://mstdn.ca/@ChrisCScott
+    - https://www.reddit.com/user/ChrisCScott
+    - https://www.linkedin.com/in/christophercscott/
+    - https://github.com/ChrisCScott
+twitter:
+  username: christopherscott
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/ccscott

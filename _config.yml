@@ -136,5 +136,5 @@ facebook:
   publisher: https://www.facebook.com/ccscott
 
 # Custom tags:
-# This image is set
-default_image: 
+# This image will be used for social media 
+default_image: /images/logo.svg

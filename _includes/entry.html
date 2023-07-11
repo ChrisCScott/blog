@@ -3,6 +3,8 @@
 {% else %}
   {% assign title = entry.title %}
 {% endif %}
+{% assign content_size = entry.content | size %}
+{% assign excerpt_size = entry.excerpt | size %}
 
 <article class="entry h-entry">
   <header class="entry-header">
@@ -27,6 +29,14 @@
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
       {% endif %}
+
+      {% comment %}
+        Add a Read More link:
+      {% endcomment %}
+      {% if content_size > excerpt_size %}
+        <p><a href="{{ entry.url | relative_url }}">{{ site.read_more_text }}</a></p>
+      {% endif %}
+
     </div>
   {% endunless %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}

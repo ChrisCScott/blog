@@ -134,3 +134,7 @@ twitter:
   card: summary
 facebook:
   publisher: https://www.facebook.com/ccscott
+
+# Custom tags:
+# This image is set
+default_image: 

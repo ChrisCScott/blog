@@ -114,3 +114,7 @@ defaults:
       layout: post
       comments: false
       share: false
+
+# Search full text of posts. (This can slow the site down if there
+# are many posts - not likely to be an issue for this site)
+search_full_content: true
